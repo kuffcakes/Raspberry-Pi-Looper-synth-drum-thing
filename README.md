@@ -1,3 +1,6 @@
+Here is a blog that shows the build process of this project:
+https://kuffcakes.wixsite.com/pi-looper-guide
+
 # Raspberry-Pi-Looper-synth-drum-thing
 My first venture into raspberry pi stuff. Running a custom pure data patch I've been working on for a couple years on a Raspberry Pi 3. This project took a couple months and I'm still tweaking stuff here and there but it's pretty much complete, it even survived it's first live show!
 
